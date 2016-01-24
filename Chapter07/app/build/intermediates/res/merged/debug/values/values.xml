@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Chapter06</string>
+    <string name="app_title1">効果音を鳴らしたい</string>
+    <string name="app_title10">音楽の周波数スペクトルを表示したい</string>
+    <string name="app_title11">ビデオを再生したい</string>
+    <string name="app_title12">アプリ内でYouTubeを再生したい</string>
+    <string name="app_title2">音声を再生したい</string>
+    <string name="app_title3">音声を録音したい</string>
+    <string name="app_title4">ギャップレス再生をしたい</string>
+    <string name="app_title5">ヘッドフォンの抜き差しを検出したい</string>
+    <string name="app_title6">ヘッドフォンコントロールの操作を検出したい</string>
+    <string name="app_title7">音楽の情報をロックスクリーンに表示したい</string>
+    <string name="app_title8">音楽の情報を通知領域に表示したい</string>
+    <string name="app_title9">音楽のイコライザーを設定したい</string>
+    <string name="text_complete_recordplay">再生が終了しました</string>
+    <string name="text_enable_equlizer">イコライザーを有効にする</string>
+    <string name="text_error_player">YouTubePlayerの初期化に失敗しました (%1$s)</string>
+    <string name="text_now_record">録音中</string>
+    <string name="text_play">再生</string>
+    <string name="text_record">録音</string>
+    <string name="text_stop">停止</string>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="設定画面" >
+        <EditTextPreference
+            android:dialogTitle="エディットダイアログタイトル"
+            android:key="edittext_key"
+            android:summary="エディットサマリー"
+            android:title="タイトル：エディット" />
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter02/app/src/main/res/xml/ch0234_pref.xml -->

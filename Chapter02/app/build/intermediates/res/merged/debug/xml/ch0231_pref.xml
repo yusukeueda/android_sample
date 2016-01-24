@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="設定画面" >
+        <ListPreference
+            android:dialogTitle="リストダイアログタイトル"
+            android:entries="@array/list_entries"
+            android:entryValues="@array/list_entryvalues"
+            android:key="list_key"
+            android:summary="リストサマリー"
+            android:title="タイトル：リスト" />
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter02/app/src/main/res/xml/ch0231_pref.xml -->

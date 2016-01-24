@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter12</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title1">アプリ終了後も一定時間処理を続けたい</string>
+    <string name="app_title2">一定時間後にイベントを発生させたい</string>
+    <string name="app_title3">画像の表示を非同期に行いたい</string>
+    <string name="text_start">開始</string>
+
+</resources>

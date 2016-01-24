@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter01/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="list_entries">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+    </string-array>
+    <string-array name="list_entryvalues">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+    </string-array>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter01/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="FlatDarkBlue">#2980b9</color>
+    <color name="FlatDarkCyan">#16a085</color>
+    <color name="FlatDarkGlay">#7f8c8d</color>
+    <color name="FlatDarkGreen">#27ae60</color>
+    <color name="FlatDarkNavy">#2c3e50</color>
+    <color name="FlatDarkOrange">#d35400</color>
+    <color name="FlatDarkPurple">#8e44ad</color>
+    <color name="FlatDarkRed">#c0392b</color>
+    <color name="FlatDarkWhite">#bdc3c7</color>
+    <color name="FlatDarkYellow">#f39c12</color>
+    <color name="FlatLightAqua">#68acec</color>
+    <color name="FlatLightBlue">#3498db</color>
+    <color name="FlatLightCyan">#1abc9c</color>
+    <color name="FlatLightGlay">#95a5a6</color>
+    <color name="FlatLightGreen">#2ecc71</color>
+    <color name="FlatLightNavy">#34495e</color>
+    <color name="FlatLightOrange">#e67e22</color>
+    <color name="FlatLightPink">#ec6877</color>
+    <color name="FlatLightPurple">#9b59b6</color>
+    <color name="FlatLightRed">#e74c3c</color>
+    <color name="FlatLightWhite">#ecf0f1</color>
+    <color name="FlatLightYellow">#f1c40f</color>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter01/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="ch0133_image_size">1000dp</dimen>
+    <dimen name="padding_large">10dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_minimum">2dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_xlarge">16dp</dimen>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter01/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Chapter01</string>
+    <string name="app_title1">文字にHTMLのリンクを表示したい</string>
+    <string name="app_title10">トグル/スイッチを使いたい</string>
+    <string name="app_title11">トグル/スイッチをカスタマイズしたい</string>
+    <string name="app_title12">チェックボックスを使いたい</string>
+    <string name="app_title13">ラジオボタンを使いたい</string>
+    <string name="app_title14">シークバーを使いたい</string>
+    <string name="app_title15">シークバーを縦に表示したい</string>
+    <string name="app_title16">シークバーをカスタマイズしたい</string>
+    <string name="app_title17">パスワードを入力したい</string>
+    <string name="app_title18">入力ヒントを表示したい</string>
+    <string name="app_title19">入力文字を制限したい</string>
+    <string name="app_title2">長い文字列を省略表示したい</string>
+    <string name="app_title20">入力サジェストを使いたい</string>
+    <string name="app_title21">入力サジェストをカスタマイズしたい</string>
+    <string name="app_title22">レーティングバーを使いたい</string>
+    <string name="app_title23">スピナーを使いたい</string>
+    <string name="app_title24">スピナーをカスタマイズしたい</string>
+    <string name="app_title25">ズームコントロールを使いたい</string>
+    <string name="app_title26">ズームの早さを変更したい</string>
+    <string name="app_title27">デイトピッカーを使いたい</string>
+    <string name="app_title28">デイトピッカーに初期値をセットしたい</string>
+    <string name="app_title29">デイトピッカーの表示項目を制限したい</string>
+    <string name="app_title3">文字のスタイルを変更したい</string>
+    <string name="app_title30">デイトピッカーをダイアログで表示したい</string>
+    <string name="app_title31">イメージビューで画像を表示したい</string>
+    <string name="app_title32">イメージビューで画像を縮小して表示したい</string>
+    <string name="app_title33">画面より大きい画像をスクロールしたい</string>
+    <string name="app_title34">画像を回転させたい</string>
+    <string name="app_title35">画像に額縁を設定したい</string>
+    <string name="app_title36">画像読込中にローディングを設定したい</string>
+    <string name="app_title4">文字の配置を変更したい</string>
+    <string name="app_title5">プログレスバーを使いたい</string>
+    <string name="app_title6">プログレスバーをカスタマイズしたい</string>
+    <string name="app_title7">ボタンを使いたい</string>
+    <string name="app_title8">ボタンの状態に応じて画像を変えたい</string>
+    <string name="app_title9">ボタンに画像をセットしたい</string>
+    <string name="ch0110_switch_shift">Switch : %s</string>
+    <string name="ch0110_toggle_shift">ToggleButton : %s</string>
+    <string name="ch0126_label_zoomspeed">ズーム速度</string>
+    <string name="ch0126_label_zoomspeedFast">早い</string>
+    <string name="ch0126_label_zoomspeedSlow">遅い</string>
+    <string name="ch0127_picker_getdate">日付を取得</string>
+    <string name="ch0129_picker_hidecalendar">カレンダーを非表示</string>
+    <string name="ch0129_picker_hideday">日を非表示</string>
+    <string name="ch0129_picker_hidemonth">月を非表示</string>
+    <string name="ch0129_picker_hideyear">年を非表示</string>
+    <string name="ch0130_picker_datepickerdialog">デイトピッカーダイアログを表示</string>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter01/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="TextBigMan">
+        <item name="android:textColor">@color/FlatLightYellow</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="TextShadow">
+        <item name="android:shadowColor">@android:color/white</item>
+        <item name="android:shadowDx">1.5</item>
+        <item name="android:shadowDy">1.5</item>
+        <item name="android:shadowRadius">0.3</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:2:1-232:12
+	package
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:8:19-67
+uses-feature#android.hardware.nfc
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:9:5-57
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:9:19-54
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:15:22-72
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.NFC
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:20:5-62
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:20:22-59
+uses-sdk
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:22:5-24:41
+	android:targetSdkVersion
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:24:9-38
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:23:9-35
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:26:5-230:19
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:30:9-40
+activity#jp.co.se.android.recipe.common.MainActivity
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:32:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:37:27-74
+activity#jp.co.se.android.recipe.chapter11.Ch1101
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:42:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:41:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.SAMPLE_CODE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:43:13-47:29
+category#android.intent.category.SAMPLE_CODE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:46:17-80
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:46:27-77
+activity#jp.co.se.android.recipe.chapter11.Ch1102
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:49:9-57:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:51:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:50:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1103
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:58:9-66:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:60:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:59:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1104
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:67:9-75:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:68:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1105
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:76:9-84:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:78:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:77:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1106
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:85:9-93:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:87:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:86:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1107
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:94:9-103:20
+	android:screenOrientation
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:97:13-50
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:96:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:95:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1108
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:104:9-113:20
+	android:screenOrientation
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:107:13-50
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:106:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:105:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1109
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:114:9-123:20
+	android:screenOrientation
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:117:13-50
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:116:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:115:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1110
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:124:9-133:20
+	android:screenOrientation
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:127:13-50
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:126:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:125:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1111
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:134:9-143:20
+	android:screenOrientation
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:137:13-50
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:136:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:135:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1112
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:144:9-177:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:146:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:145:13-35
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:153:13-159:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:154:17-77
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:154:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:156:17-76
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:156:27-73
+data
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:158:17-55
+	android:mimeType
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:158:23-52
+intent-filter#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:170:13-172:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:171:17-77
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:171:25-74
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:174:13-176:59
+	android:resource
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:176:17-56
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:175:17-66
+activity#jp.co.se.android.recipe.chapter11.Ch1113
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:178:9-211:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:180:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:179:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1114
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:212:9-220:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:214:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:213:13-35
+activity#jp.co.se.android.recipe.chapter11.Ch1115
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:221:9-229:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:223:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter11/app/src/main/AndroidManifest.xml:222:13-35

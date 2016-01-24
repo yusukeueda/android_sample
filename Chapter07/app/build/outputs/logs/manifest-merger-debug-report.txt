@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:2:1-155:12
+	package
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:10:22-68
+uses-sdk
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:12:5-14:41
+	android:targetSdkVersion
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:14:9-38
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:13:9-35
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:16:5-153:19
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:20:9-40
+activity#jp.co.se.android.recipe.common.MainActivity
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:22:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:27:27-74
+activity#jp.co.se.android.recipe.chapter07.Ch0701
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:32:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:31:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.SAMPLE_CODE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:33:13-37:29
+category#android.intent.category.SAMPLE_CODE
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:36:17-80
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:36:27-77
+activity#jp.co.se.android.recipe.chapter07.Ch0702
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:39:9-47:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:41:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:40:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0703
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:48:9-56:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:50:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:49:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0704
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:57:9-65:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:59:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:58:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0705
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:66:9-74:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:68:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:67:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0706
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:75:9-83:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:77:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:76:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0707
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:84:9-92:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:86:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:85:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0708
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:93:9-101:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:95:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:94:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0709
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:102:9-110:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:104:13-47
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:103:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0710
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:111:9-119:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:113:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:112:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0711
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:120:9-128:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:122:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:121:13-35
+activity#jp.co.se.android.recipe.chapter07.Ch0712
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:129:9-137:20
+	android:label
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:131:13-48
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:130:13-35
+service#jp.co.se.android.recipe.chapter07.Ch0706Service
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:139:9-50
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:139:18-47
+service#jp.co.se.android.recipe.chapter07.Ch0707Service
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:140:9-50
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:140:18-47
+service#jp.co.se.android.recipe.chapter07.Ch0708Service
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:141:9-50
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:141:18-47
+receiver#jp.co.se.android.recipe.chapter07.Ch0706Receiver
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:143:9-147:20
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:143:19-49
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:144:13-146:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:145:17-77
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:145:25-74
+receiver#jp.co.se.android.recipe.chapter07.Ch0707Receiver
+ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:148:9-152:20
+	android:name
+		ADDED from /Users/yusuke/AndroidStudioProjects/android_sample/Chapter07/app/src/main/AndroidManifest.xml:148:19-49

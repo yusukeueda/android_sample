@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter02</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title1">ListViewでリスト表示をしたい</string>
+    <string name="app_title2">GridViewでグリッド表示をしたい</string>
+    <string name="app_title3">ExpandListViewで階層表示をしたい</string>
+    <string name="app_title4">ListViewのヘッダー・フッターを設定したい</string>
+    <string name="app_title5">ListViewのインデックスを設定したい</string>
+    <string name="app_title6">ListViewの表示のアイテムを独自のレイアウトで表示したい</string>
+    <string name="app_title7">最後まで表示したら自動で項目が追加されるようにしたい</string>
+    <string name="app_title8">画面を縦にスクロールしたい</string>
+    <string name="app_title9">画面を横にスクロールしたい</string>
+    <string name="app_title10">高速スクローラーを追加したい</string>
+    <string name="app_title11">ボタン付きダイアログを表示したい</string>
+    <string name="app_title12">テキスト入力付きダイアログを表示したい</string>
+    <string name="app_title13">チェック付きダイアログを表示したい</string>
+    <string name="app_title14">独自のレイアウトで表示したい</string>
+    <string name="app_title15">ダイアログのテーマを変更したい</string>
+    <string name="app_title16">ダイアログのタイトルを消したい</string>
+    <string name="app_title17">モーダルなダイアログを表示したい</string>
+    <string name="app_title18">ActionBarのタイトルを変更したい</string>
+    <string name="app_title19">ActionBarのタイトルアイコンを変更したい</string>
+    <string name="app_title20">ActionBarに戻る機能を設定したい</string>
+    <string name="app_title21">ActionBarのタイトルフォントを変更したい</string>
+    <string name="app_title22">ActionBarにメニューを表示したい</string>
+    <string name="app_title23">ActionBarにタブを追加したい</string>
+    <string name="app_title24">ActionBarのスタイルを表示したい</string>
+    <string name="app_title25">ActionBarにスピナーを配置したい</string>
+    <string name="app_title26">メニューの表示を制御したい</string>
+    <string name="app_title27">メニューを動的に変更したい</string>
+    <string name="app_title28">メニューのチェックボックスを設定したい</string>
+    <string name="app_title29">設定画面を作成したい</string>
+    <string name="app_title30">テキストの設定を追加したい</string>
+    <string name="app_title31">選択式の設定を追加したい</string>
+    <string name="app_title32">チェック式の選択を追加したい</string>
+    <string name="app_title33">設定の名称と説明を変更したい</string>
+    <string name="app_title34">設定の変更を検出したい</string>
+    <string name="app_title35">設定ダイアログをカスタマイズしたい</string>
+    <string name="app_title36">プリファレンスをカスタマイズしたい</string>
+    <string name="ch0210_label_usefastscroll">高速スクローラー</string>
+
+</resources>

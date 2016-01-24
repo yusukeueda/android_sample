@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/yusuke/AndroidStudioProjects/android_sample/Chapter15/assets"><file name="ch1512.json" path="/Users/yusuke/AndroidStudioProjects/android_sample/Chapter15/assets/ch1512.json"/><file name="ch1513.xml" path="/Users/yusuke/AndroidStudioProjects/android_sample/Chapter15/assets/ch1513.xml"/></source></dataSet><dataSet config="debug"><source path="/Users/yusuke/AndroidStudioProjects/android_sample/Chapter15/build-types/debug/assets"/></dataSet></merger>

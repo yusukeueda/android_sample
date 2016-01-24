@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="always|withText"
+        android:title="検索"/>
+    <item
+        android:icon="@android:drawable/ic_menu_edit"
+        android:showAsAction="ifRoom|withText"
+        android:title="編集"/>
+    <item
+        android:icon="@android:drawable/ic_menu_save"
+        android:showAsAction="ifRoom|withText"
+        android:title="保存"/>
+    <item
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:showAsAction="ifRoom|withText"
+        android:title="設定"/>
+
+</menu>

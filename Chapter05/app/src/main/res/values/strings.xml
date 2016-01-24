@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter05</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title1">タップ/ダブルタップを検出したい</string>
+    <string name="app_title2">回転を検出したい</string>
+    <string name="app_title3">スワイプを検出したい</string>
+    <string name="app_title4">長押しを検出したい</string>
+    <string name="app_title5">画像の任意の領域のクリック判定をしたい</string>
+    <string name="app_title6">[戻る]ボタンを検出したい</string>
+    <string name="app_title7">[ホーム]ボタンを検出したい</string>
+    <string name="app_title8">[ボリューム]ボタンを検出したい</string>
+
+</resources>

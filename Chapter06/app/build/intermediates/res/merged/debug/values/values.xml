@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter06/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Chapter06</string>
+    <string name="app_title1">点を描画したい</string>
+    <string name="app_title10">プロパティアニメーションを使いたい</string>
+    <string name="app_title11">画面にアニメーションをセットしたい</string>
+    <string name="app_title12">画像を指定サイズでトリミングしたい</string>
+    <string name="app_title13">画像をモノクロ表示したい</string>
+    <string name="app_title14">画像の反射を表示したい</string>
+    <string name="app_title15">大きい画像を読み込みたい</string>
+    <string name="app_title16">画像をピンチイン・ピンチアウトで拡大縮小したい</string>
+    <string name="app_title2">直線を描画したい</string>
+    <string name="app_title3">曲線を描画したい</string>
+    <string name="app_title4">円を描画したい</string>
+    <string name="app_title5">矩形を描画したい</string>
+    <string name="app_title6">多角形を描画したい</string>
+    <string name="app_title7">テキスト描画したい</string>
+    <string name="app_title8">パスに沿ってテキストを描画したい</string>
+    <string name="app_title9">Tweenアニメーションを使いたい</string>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter06/app/src/main/res/values/ch0611_styles.xml -->
+    <eat-comment/>
+    <style name="Animation.Activity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/ch0611_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/ch0611_open_exit</item>
+        <item name="android:activityCloseExitAnimation">@anim/ch0611_close_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/ch0611_close_enter</item>
+    </style>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter06/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter06/app/src/main/res/values/ch0611_styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Ch0611" parent="AppBaseTheme">
+        <item name="android:windowAnimationStyle">@style/Animation.Activity</item>
+    </style>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter03</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title1">LinearLayoutを使いたい</string>
+    <string name="app_title2">TableLayoutを使いたい</string>
+    <string name="app_title3">GridLayoutを使いたい</string>
+    <string name="app_title4">FrameLayoutを使いたい</string>
+    <string name="app_title5">RelativeLayoutを使いたい</string>
+    <string name="app_title6">Viewに余白を設けたい</string>
+    <string name="app_title7">Viewを均等に配置したい</string>
+    <string name="app_title8">伸縮する余白を配置したい</string>
+    <string name="app_title9">レイアウトを再利用したい</string>
+    <string name="app_title10">背景を変更したい</string>
+    <string name="app_title11">サイズを変更したい</string>
+    <string name="app_title12">タブ画面を作成したい</string>
+    <string name="app_title13">ナビゲーションドロワーを作成したい</string>
+    <string name="app_title14">スワイプで切り替わる画面を作成したい</string>
+    <string name="label_view">View</string>
+    <string name="label_background">背景</string>
+    <string name="label_margin">マージン</string>
+    <string name="label_padding">パディング</string>
+    <string name="label_margineven">伸縮する余白</string>
+    <string name="label_table_normal">標準</string>
+    <string name="label_table_column">カラム操作</string>
+    <string name="label_table_table">テーブル操作</string>
+    <string name="label_table_repeat">折り返し折り返し折り返し折り返し</string>
+    <string name="label_view01">View01</string>
+    <string name="label_view02">View02</string>
+    <string name="label_view03">View03</string>
+    <string name="label_view04">View04</string>
+    <string name="label_view05">View05</string>
+    <string name="label_view06">View06</string>
+    <string name="label_view07">View07</string>
+    <string name="label_view08">View08</string>
+    <string name="label_view09">View09</string>
+    <string name="label_view10">View10</string>
+    <string name="label_top">TOP</string>
+    <string name="label_left">LEFT</string>
+    <string name="label_bottom">BOTTOM</string>
+    <string name="label_right">RIGHT</string>
+    <string name="label_include_normal">通常レイアウトを使った再利用</string>
+    <string name="label_include_merge">Mergeを使った再利用</string>
+    <string name="label_even_horizonal">横に均等</string>
+    <string name="label_even_vertical">縦に均等</string>
+    <string name="ch0313_drawer_open">Open navigation drawer</string>
+    <string name="ch0313_drawer_close">Close navigation drawer</string>
+
+</resources>

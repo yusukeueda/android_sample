@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter02/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="list_entries">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+    </string-array>
+    <string-array name="list_entryvalues">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+    </string-array>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter02/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="FlatDarkBlue">#2980b9</color>
+    <color name="FlatDarkCyan">#16a085</color>
+    <color name="FlatDarkGlay">#7f8c8d</color>
+    <color name="FlatDarkGreen">#27ae60</color>
+    <color name="FlatDarkNavy">#2c3e50</color>
+    <color name="FlatDarkOrange">#d35400</color>
+    <color name="FlatDarkPurple">#8e44ad</color>
+    <color name="FlatDarkRed">#c0392b</color>
+    <color name="FlatDarkWhite">#bdc3c7</color>
+    <color name="FlatDarkYellow">#f39c12</color>
+    <color name="FlatLightAqua">#68acec</color>
+    <color name="FlatLightBlue">#3498db</color>
+    <color name="FlatLightCyan">#1abc9c</color>
+    <color name="FlatLightGlay">#95a5a6</color>
+    <color name="FlatLightGreen">#2ecc71</color>
+    <color name="FlatLightNavy">#34495e</color>
+    <color name="FlatLightOrange">#e67e22</color>
+    <color name="FlatLightPink">#ec6877</color>
+    <color name="FlatLightPurple">#9b59b6</color>
+    <color name="FlatLightRed">#e74c3c</color>
+    <color name="FlatLightWhite">#ecf0f1</color>
+    <color name="FlatLightYellow">#f1c40f</color>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter02/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">10dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_minimum">2dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_xlarge">16dp</dimen>
+    <dimen name="scroll_vertical_view">100dp</dimen>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter02/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Chapter02</string>
+    <string name="app_title1">ListViewでリスト表示をしたい</string>
+    <string name="app_title10">高速スクローラーを追加したい</string>
+    <string name="app_title11">ボタン付きダイアログを表示したい</string>
+    <string name="app_title12">テキスト入力付きダイアログを表示したい</string>
+    <string name="app_title13">チェック付きダイアログを表示したい</string>
+    <string name="app_title14">独自のレイアウトで表示したい</string>
+    <string name="app_title15">ダイアログのテーマを変更したい</string>
+    <string name="app_title16">ダイアログのタイトルを消したい</string>
+    <string name="app_title17">モーダルなダイアログを表示したい</string>
+    <string name="app_title18">ActionBarのタイトルを変更したい</string>
+    <string name="app_title19">ActionBarのタイトルアイコンを変更したい</string>
+    <string name="app_title2">GridViewでグリッド表示をしたい</string>
+    <string name="app_title20">ActionBarに戻る機能を設定したい</string>
+    <string name="app_title21">ActionBarのタイトルフォントを変更したい</string>
+    <string name="app_title22">ActionBarにメニューを表示したい</string>
+    <string name="app_title23">ActionBarにタブを追加したい</string>
+    <string name="app_title24">ActionBarのスタイルを表示したい</string>
+    <string name="app_title25">ActionBarにスピナーを配置したい</string>
+    <string name="app_title26">メニューの表示を制御したい</string>
+    <string name="app_title27">メニューを動的に変更したい</string>
+    <string name="app_title28">メニューのチェックボックスを設定したい</string>
+    <string name="app_title29">設定画面を作成したい</string>
+    <string name="app_title3">ExpandListViewで階層表示をしたい</string>
+    <string name="app_title30">テキストの設定を追加したい</string>
+    <string name="app_title31">選択式の設定を追加したい</string>
+    <string name="app_title32">チェック式の選択を追加したい</string>
+    <string name="app_title33">設定の名称と説明を変更したい</string>
+    <string name="app_title34">設定の変更を検出したい</string>
+    <string name="app_title35">設定ダイアログをカスタマイズしたい</string>
+    <string name="app_title36">プリファレンスをカスタマイズしたい</string>
+    <string name="app_title4">ListViewのヘッダー・フッターを設定したい</string>
+    <string name="app_title5">ListViewのインデックスを設定したい</string>
+    <string name="app_title6">ListViewの表示のアイテムを独自のレイアウトで表示したい</string>
+    <string name="app_title7">最後まで表示したら自動で項目が追加されるようにしたい</string>
+    <string name="app_title8">画面を縦にスクロールしたい</string>
+    <string name="app_title9">画面を横にスクロールしたい</string>
+    <string name="ch0210_label_usefastscroll">高速スクローラー</string>
+    <!-- From: file:/Users/yusuke/AndroidStudioProjects/android_sample/Chapter02/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AlertDialog">
+        <item name="android:fullBright">@color/FlatLightRed</item>
+        <item name="android:fullDark">@color/FlatLightGreen</item>
+        <item name="android:topBright">@color/FlatLightBlue</item>
+        <item name="android:topDark">@color/FlatLightYellow</item>
+        <item name="android:centerBright">@color/FlatLightCyan</item>
+        <item name="android:centerDark">@color/FlatLightPurple</item>
+        <item name="android:centerMedium">@color/FlatLightPink</item>
+        <item name="android:bottomBright">@color/FlatLightNavy</item>
+        <item name="android:bottomDark">@color/FlatLightBlue</item>
+        <item name="android:bottomMedium">@color/FlatLightOrange</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MyTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:alertDialogStyle">@style/AlertDialog</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/jp/co/se/android/recipe/chapter01/DialogCustomTheme.java" />
+        <ignore path="src/jp/co/se/android/recipe/chapter01/EditTextSuggestAddress.java" />
+        <ignore path="src/jp/co/se/android/recipe/chapter01/OptionsMenu.java" />
+        <ignore path="src/jp/co/se/android/recipe/chapter01/PickerSelectTarget.java" />
+        <ignore path="src/jp/co/se/android/recipe/chapter01/SettingAddCheck.java" />
+        <ignore path="src/jp/co/se/android/recipe/chapter01/SettingAddEdit.java" />
+        <ignore path="src/jp/co/se/android/recipe/chapter01/SettingAddList.java" />
+        <ignore path="src/jp/co/se/android/recipe/chapter01/SettingMain.java" />
+    </issue>
+    <issue id="SimpleDateFormat">
+        <ignore path="src/jp/co/se/android/recipe/chapter01/SettingCustmizeDialog.java" />
+    </issue>
+</lint>

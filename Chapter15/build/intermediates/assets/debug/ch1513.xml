@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ニュースRSSサンプル</title>
+        <link>http://android-recipe.herokuapp.com/</link>
+        <description>これはRSSのサンプルです。</description>
+        <language>ja</language>
+        <pubDate>Mon, 10 Feb 2014 13:01:22 +0900</pubDate>
+        <item>
+            <title>ニュース１</title>
+            <link>http://android-recipe.herokuapp.com/pages/1</link>
+            <pubDate>Mon, 10 Feb 2014 11:06:35 +0900</pubDate>
+            <description><![CDATA[ニュース１の内容です。]]></description>
+        </item>
+        <item>
+            <title>ニュース２</title>
+            <link>http://android-recipe.herokuapp.com/pages/2</link>
+            <pubDate>Mon, 10 Feb 2014 12:38:06 +0900</pubDate>
+            <description><![CDATA[ニュース２の内容です。]]></description>
+        </item>
+        <item>
+            <title>ニュース３</title>
+            <link>http://android-recipe.herokuapp.com/pages/3</link>
+            <pubDate>Mon, 10 Feb 2014 12:17:42 +0900</pubDate>
+            <description><![CDATA[ニュース３の内容です。]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter16</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name1">データベースの作成</string>
+    <string name="app_name2">データの生成、更新、削除</string>
+    <string name="app_name3">データの検索</string>
+    <string name="app_name4">データベースのエクスポート、リストア</string>
+    <string name="app_name5">画像を保存したい</string>
+    <string name="app_name6">トランザクションを使用したい</string>
+    <string name="app_name7">プリコンパイルステートメントを使用したい</string>
+    <string name="app_name8">非同期にデータベースにアクセスしたい</string>
+    <string name="text_start">開始</string>
+    <string name="text_export">エクスポート</string>
+    <string name="text_resotre">リストア</string>
+
+</resources>

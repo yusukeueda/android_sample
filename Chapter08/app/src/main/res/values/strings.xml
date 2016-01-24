@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidRecipeCh08</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title1">Webコンテンツを表示したい</string>
+    <string name="app_title2">履歴を進めたり戻したりしたい</string>
+    <string name="app_title3">UserAgentを変更したい</string>
+    <string name="app_title4">Webページの読込み状況を取得したい</string>
+    <string name="app_title5">端末のバックキーを押した際に前のページに戻りたい</string>
+    <string name="app_title6">長押ししたリンクのURLを取得したい</string>
+    <string name="app_title7">ファビコンを取得したい</string>
+    <string name="app_title8">assetsフォルダにあるHTMLを表示したい</string>
+    <string name="app_title9">HTML5のWebStorageを利用できるようにしたい</string>
+    <string name="app_title10">Basic認証を利用したページを表示したい</string>
+    <string name="app_title11">位置情報を利用したページを表示したい</string>
+    <string name="app_title12">Cookieを利用したい</string>
+    <string name="app_title13">表示中のページにJavaScriptを発行したい</string>
+    <string name="app_title14">表示中のページからJavaのコードを実行したい</string>
+    <string name="app_title15">URL中の特定の文字列を取り出したい</string>
+    <string name="app_title16">HttpClientを利用してテキストデータを取得したい</string>
+    <string name="app_title17">HttpURLConnectionを利用してテキストデータを取得したい</string>
+
+</resources>
